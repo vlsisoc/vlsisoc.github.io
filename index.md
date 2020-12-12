@@ -38,7 +38,7 @@ sections:
         date: April 19, 2021
       - title: Full paper submission
         date: April 26, 2021
-      - title: Special Session Proposal
+      - title: Special session proposal
         date: April 26, 2021
       - title: Notification of acceptance
         date: June 21, 2021
