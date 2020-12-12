@@ -3,7 +3,7 @@ layout: home
 header:
   title: VLSI-SoC 2021 
   text: >
-    29th IFIP/IEEE International Conference on Very Large Scale Integration
+    29th IFIP/IEEE International Conference on <br/>Very Large Scale Integration
   venue: >
     5-7 October 2021, Singapore, Nanyang Technological University Center
   action: # action button is optional
