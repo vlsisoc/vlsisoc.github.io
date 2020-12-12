@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: VLSI-SoC 2021 
+  title: VLSI-SoC 2021
   text: >
     29th IFIP/IEEE International Conference on <br/>Very Large Scale Integration
   venue: >
@@ -40,7 +40,7 @@ sections:
         date: April 26, 2021
       - title: Special Session Proposal
         date: April 26, 2021
-      - title: Notification of acceptance 
+      - title: Notification of acceptance
         date: June 21, 2021
       - title: Camera ready
         date: July 12, 2021
@@ -66,7 +66,7 @@ sections:
 
       ### Special session co-chairs
 
-      Francesco Regazzoni (Univ. of Amsterdam, NL)
+      Francesco Regazzoni (University of Amsterdam, NL)
 
       Mohammed Sabry (NTU, SG)
 
@@ -85,28 +85,28 @@ sections:
       Manimuthu Arunmozhi (NTU, SG)
 
       Nandeesh Veeranna (ST Microelectronics, SG)
-   
+
       ### Publication chair
 
       Nicola Bombieri (University of Verona, IT)
 
-      ### Finance chair 
+      ### Finance chair
 
       Debjyoti Bhattacharjee (IMEC, BE)
 
       ### Publicity co-chairs
 
-      Swaroop Ghosh (Penn State, USA) 
+      Swaroop Ghosh (Penn State, USA)
 
       Shahar Kvatinsky (Technion, IL)
 
       Farhad Merchant (RWTH Aachen, DL)
 
       Ian O'Connor (ECL, FR)
-     
+
       Graziano Pravadelli (University of Verona, IT)
 
-      ### Website co-chairs 
+      ### Website co-chairs
 
       Valentino Peluso (Politecnico di Torino, IT)
 
