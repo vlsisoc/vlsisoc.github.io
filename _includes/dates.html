@@ -1,0 +1,18 @@
+<section class="page-section {{ section.background_style }}" id="{{ section.section_id }}">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+            <h2 class="text-white mt-0 text-center">
+            <i class="fa fa-calendar-check"></i>
+            Importand Dates</h2>
+            <hr class="divider light my-4">
+
+            <ul style="list-style-type:none">
+                {% for date in section.dates %}
+                <li><b>{{ date.title }}</b>: {{ date.date }}</li>
+                {% endfor %}
+            </ul>
+            </div>
+        </div>
+    </div>
+</section>

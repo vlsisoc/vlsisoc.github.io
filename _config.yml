@@ -3,7 +3,7 @@ title: VLSI-SoC 2021
 description: VLSI-SoC 2021 | 29th IFIP/IEEE International Conference on Very Large Scale Integration > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-author: Copyright &copy; 2019 - Start Bootstrap
+author: Valentino Peluso
 lang: en_US
 
 # Build settings
@@ -21,3 +21,4 @@ exclude:
   - Gemfile.lock
   - build.sh
   - README.md
+  - links.md
