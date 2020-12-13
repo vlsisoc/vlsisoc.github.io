@@ -48,7 +48,7 @@ sections:
   # Organization
   - type: organization.html
     section_id: organization
-    title: Organization Committee
+    title: Organizing Committee
     # background_style: bg-info
     # text_style: text-center text-white
     text: >+

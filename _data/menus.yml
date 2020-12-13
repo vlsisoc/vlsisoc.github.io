@@ -5,7 +5,9 @@
 header:
 - title: Home
   url: /#page-top
-- title: Organization
+- title: Important Dates
+  url: /#dates
+- title: Committee
   url: /#organization
 - title: Contacts
   url: /#contacts
