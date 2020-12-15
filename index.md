@@ -25,6 +25,8 @@ sections:
     actions:
       - image: LOGO_04.png
         alt: VLSI-SoC
+      - image: ieee.png
+        alt: IEEE
       - image: logo_ifip.png
         alt: IFIP
 
@@ -100,7 +102,7 @@ sections:
 
       Shahar Kvatinsky (Technion, IL)
 
-      Farhad Merchant (RWTH Aachen, DL)
+      Farhad Merchant (RWTH Aachen, DE)
 
       Ian O'Connor (ECL, FR)
 
