@@ -25,10 +25,10 @@ sections:
     actions:
       - image: LOGO_04.png
         alt: VLSI-SoC
-      - image: ieee.png
-        alt: IEEE
       - image: logo_ifip.png
         alt: IFIP
+      - image: ieee.png
+        alt: IEEE
 
   # Important Dates
   - type: dates.html
