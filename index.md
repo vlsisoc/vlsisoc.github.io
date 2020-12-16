@@ -8,7 +8,7 @@ header:
     5-7 October 2021, Singapore, Nanyang Technological University Center
   action: # action button is optional
     label: Call For Papers
-    url: 'assets/pdf/cfp_vlsi-soc_original_v1.4.pdf'
+    url: 'assets/pdf/cfp.pdf'
 
 
 sections:
