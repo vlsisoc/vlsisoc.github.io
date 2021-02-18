@@ -14,5 +14,12 @@
             </ul>
             </div>
         </div>
+        <div class="row justify-content-center mt-3">
+            {% for action in section.actions %}
+            <div class="col-md-auto text-center">
+            <a class="btn btn-light btn-xl js-scroll-trigger" href="{{ action.url }}">{{ action.label }}</a>
+            </div>
+            {% endfor %}
+        </div>
     </div>
 </section>

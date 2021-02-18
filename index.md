@@ -46,7 +46,20 @@ sections:
         date: June 21, 2021
       - title: Camera ready
         date: July 12, 2021
-
+      - title: Ph.D. forum submission
+        date: June 4, 2021
+      - title: Ph.D. forum - Notification of acceptance
+        date: June 28, 2021
+      - title: Ph.D. Forum - Camera Ready
+        date: July 22, 2021
+    actions:
+      - label: Call For Papers
+        url: 'assets/pdf/cfp.pdf'
+      - label: Special Session
+        url: 'assets/pdf/cfs.pdf'
+      - label: Ph.D. Forum
+        url: 'assets/pdf/cfp_phd.pdf'
+  
   # Organization
   - type: organization.html
     section_id: organization
@@ -68,7 +81,7 @@ sections:
 
       ### Special session co-chairs
 
-      Francesco Regazzoni (University of Amsterdam, NL)
+      Francesco Regazzoni (University of Amsterdam, NL & Università della Svizzera Italiana, CH)
 
       Mohammed Sabry (NTU, SG)
 
