@@ -1,5 +1,7 @@
 <section id="{{ section.section_id }}" class="page-section-smaller {{ section.background_style }}">
   <div class="container text-center">
 	{% include actions.html actions=section.actions %}
-	</div>
+    <h3 class="mt-5">Media Sponsor:</h3>
+	{% include actions.html actions=section.medias %}
+  </div>
 </section>

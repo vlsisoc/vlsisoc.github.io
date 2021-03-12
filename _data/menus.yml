@@ -9,6 +9,8 @@ header:
   url: /#dates
 - title: Committee
   url: /#organization
+- title: TPC
+  url: /tpc
 - title: About
   url: /about
 - title: Contacts

@@ -1,0 +1,41 @@
+<section id="{{ section.section_id }}" class="page-section-smaller {{ section.background_style }}">
+  <div class="container">
+    <h2 class="text-center mt-0">{{ section.title }}</h2>
+    <hr class="divider my-4">
+    <div class="row justify-content-center">
+      <div class="mb-4 {{ section.text_style | default: "text-muted" }}">
+        {% for track in section.tracks %}
+        <h3 class="text-center mt-0">Track {{forloop.index}}: {{track.title}}</h3>
+          <div class="text-left text-muted mb-4">
+            <p>{{track.keywords}}</p>
+          </div>
+          <h4 class="text-left mt-0">Co-Chairs</h4>
+          <div class="mb-4">
+            {% for cochair in track.cochairs %}
+            <p>{{cochair.name}} ({{cochair.affiliation}})</p>
+            {% endfor %}
+          </div>
+          <h4 class="text-left mt-0">Topic Members</h4>
+          <div class="row mb-4">
+            {% for member in track.members %}
+              {% if forloop.index0 == 0 %}
+              <div class="col-auto">
+              {% endif %}
+              {% if forloop.index0 == track.break %}
+              <div class="col-auto">
+              {% endif %}
+              <p>{{member.name}} ({{member.affiliation}})</p>
+              {% if forloop.index == track.break %}
+              </div>
+              {% endif %}
+              {% if forloop.index == forloop.length %}
+              </div>
+              {% endif %}
+            {% endfor %}
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+    {% include actions.html actions=section.actions %}
+  </div>
+</section>

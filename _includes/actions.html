@@ -2,7 +2,7 @@
 <div class="row justify-content-center align-items-center">
   {% for action in include.actions %}
   <div class="column">
-    <img class="mx-5" src="assets/img/{{ action.image }}" alt="{{ action.alt }}" style="width:150px">
+      <img class="mx-5" src="assets/img/{{ action.image }}" alt="{{ action.alt }}" style="width:{{action.width | default: 150}}px">
   </div>
   {% endfor %}
 </div>

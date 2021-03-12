@@ -12,7 +12,7 @@ menus:
 sections:
 - type: paragraph.html
   section_id: help
-  title: VLSI-SoC 2021
+  title: About
   text_style: text-justify
   text: >+
     VLSI-SoC 2021 is the 29th in a series of international conferences sponsored

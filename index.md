@@ -23,12 +23,15 @@ sections:
     section_id: aside
     background_style: bg-light
     actions:
-      - image: LOGO_04.png
-        alt: VLSI-SoC
       - image: logo_ifip.png
         alt: IFIP
       - image: ieee.png
         alt: IEEE
+    medias:
+      - image: jlpea.png
+        alt: JLPEA
+        width: 250
+
 
   # Important Dates
   - type: dates.html
