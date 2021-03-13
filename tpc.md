@@ -116,7 +116,7 @@ sections:
        - name: Donatella Sciuto
          affiliation: Politecnico di Milano
        - name: Dimitrios Soudris
-         affiliation: National TerchnicalUniveristy of Athens
+         affiliation: National Terchnical Univeristy of Athens
        - name: Gianvito Urgese
          affiliation: Politecnico di Torino
        - name: Philippe Coussy
@@ -128,7 +128,7 @@ sections:
        - name: Wenjing  Rao
          affiliation: University of Illinois at Chicago
        - name: Domenico Balsamo
-         affiliation: University of NewCastler
+         affiliation: University of Newcastle
        - name: Sharad Sinha
          affiliation: IIT GOA
       break: 7
