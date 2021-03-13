@@ -118,7 +118,7 @@ sections:
        - name: Gianvito Urgese
          affiliation: Politecnico di Torino
        - name: Philippe Coussy
-         affiliation: Universit de Bretagne Sud
+         affiliation: Université de Bretagne Sud
        - name: Lars Bauer
          affiliation: Karlsruhe Institute of Technology
        - name: Eugenio Villar
