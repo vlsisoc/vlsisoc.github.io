@@ -74,8 +74,6 @@ sections:
          affiliation: University of Hong Kong
        - name: Maurizio Palesi
          affiliation: University of Catania
-       - name: Gianvito Urgese
-         affiliation: Politecnico di Torino
        - name: H. Fatih Ugurdag
          affiliation: Ozyegin University
        - name: Adam Teman
@@ -96,7 +94,7 @@ sections:
          affiliation: Chalmers University of Technology
        - name: Tolga Yalcin
          affiliation: Northern Arizona University
-      break: 10
+      break: 9
     - title: Embedded Systems Design & Software
       keywords: System level design, Cyber-Physical Systems, Embedded Applications, sensor networks, biomedical systems
       cochairs:
