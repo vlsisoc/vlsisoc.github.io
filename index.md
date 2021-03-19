@@ -5,7 +5,7 @@ header:
   text: >
     29th IFIP/IEEE International Conference on <br/>Very Large Scale Integration
   venue: >
-    4-8 October 2021, Singapore, Nanyang Technological University Center
+    Virtual Conference<br/>4-8 October 2021, Singapore, Nanyang Technological University Center
   action: # action button is optional
     label: Call For Papers
     url: 'assets/pdf/cfp.pdf'
