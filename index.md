@@ -27,10 +27,11 @@ sections:
         alt: IFIP
       - image: ieee.png
         alt: IEEE
-    # medias:
-    #   - image: jlpea.png
-    #     alt: JLPEA
-    #     width: 250
+    medias:
+      - image: jlpea.png
+        alt: JLPEA
+        width: 250
+        link: https://www.mdpi.com/journal/jlpea
 
 
   # Important Dates
