@@ -25,15 +25,16 @@ sections:
     actions:
       - image: logo_ifip.png
         alt: IFIP
-      - image: cass_singapore.jpg
+      - image: cass.png
         alt: IEEE CAS Singapore Chapter
+        height: 170
       - image: ieee.png
         alt: IEEE
     medias:
       - image: jlpea.png
         alt: JLPEA
         link: https://www.mdpi.com/journal/jlpea
-
+        height: 120
 
   # Important Dates
   - type: dates.html
