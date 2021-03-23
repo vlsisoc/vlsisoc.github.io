@@ -25,12 +25,13 @@ sections:
     actions:
       - image: logo_ifip.png
         alt: IFIP
+      - image: cass_singapore.jpg
+        alt: IEEE CAS Singapore Chapter
       - image: ieee.png
         alt: IEEE
     medias:
       - image: jlpea.png
         alt: JLPEA
-        width: 250
         link: https://www.mdpi.com/journal/jlpea
 
 
@@ -63,7 +64,7 @@ sections:
         url: 'assets/pdf/cfs.pdf'
       - label: Ph.D. Forum
         url: 'assets/pdf/cfp_phd.pdf'
-  
+
   # Organization
   - type: organization.html
     section_id: organization
