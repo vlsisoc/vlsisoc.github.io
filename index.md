@@ -66,6 +66,39 @@ sections:
       - label: Ph.D. Forum
         url: 'assets/pdf/cfp_phd.pdf'
 
+  # Keynotes
+  - type: members.html
+    section_id: keynotes
+    title: Keynotes
+    background_style: bg-dark text-white
+    members:
+      - title: Kanishka Bhaduri
+        affiliation: Apple
+        # text: Singer and Songwriter
+        image: assets/img/members/bhaduri.jpg
+        url: '#'
+      - title: Peter Debacker
+        affiliation: IMEC
+        # text: Bass guitar.
+        image: assets/img/members/debacker.jpg
+        url: '#'
+      - title: Kurt Keutzer
+        affiliation: UC Berkeley
+        # text: Lead guitar.
+        image: assets/img/members/keutzer.jpg
+        url: '#'
+      - title: Ruby B. Lee
+        affiliation: Princeton University
+        # text: Lead guitar.
+        image: assets/img/members/lee.jpg
+        url: '#'
+      - title: Damien Querlioz
+        affiliation: CNRS, Université Paris-Saclay
+        # text: Lead guitar.
+        image: assets/img/members/querlioz.jpg
+        url: '#'
+
+
   # Organization
   - type: organization.html
     section_id: organization
@@ -156,24 +189,6 @@ sections:
       Chi-Ying Tsui (HKUST, Hong Kong, CN)
 
       Fatih Ugurdag (Ozyegin University, TR)
-
-  # - type: members.html
-  #   section_id: members
-  #   title: Keynote Speakers
-  #   background_style: bg-info text-white
-  #   members:
-  #     - title: Christina M. Aponte
-  #       text: Singer and Songwriter
-  #       image: assets/img/members/person1.jpg
-  #       url: '#'
-  #     - title: Gary D. Stevens
-  #       text: Bass guitar.
-  #       image: assets/img/members/person2.jpg
-  #       url: '#'
-  #     - title: Devon J. Fletcher
-  #       text: Lead guitar.
-  #       image: assets/img/members/person3.jpg
-  #       url: '#'
 
   - type: contact.html
     section_id: contacts
