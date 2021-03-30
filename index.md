@@ -97,7 +97,11 @@ sections:
         # text: Lead guitar.
         image: assets/img/members/querlioz.jpg
         url: '#'
-
+      - title: Sunil Cheruvu
+        affiliation: Intel
+        # text: Lead guitar.
+        image: assets/img/members/cheruvu.jpg
+        url: '#'
 
   # Organization
   - type: organization.html
@@ -159,6 +163,8 @@ sections:
       Ian O'Connor (ECL, FR)
 
       Graziano Pravadelli (University of Verona, IT)
+
+      Srinivas Katkoori (University of South Florida, USA)
 
       ### Website co-chairs
 
