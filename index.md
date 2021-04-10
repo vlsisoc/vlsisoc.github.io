@@ -56,9 +56,9 @@ sections:
         date: June 21, 2021
       - title: Camera ready
         date: July 12, 2021
-      - title: Ph.D. forum submission
+      - title: Ph.D. Forum submission
         date: June 4, 2021
-      - title: Ph.D. forum - Notification of acceptance
+      - title: Ph.D. Forum - Notification of acceptance
         date: June 28, 2021
       - title: Ph.D. Forum - Camera Ready
         date: July 22, 2021
