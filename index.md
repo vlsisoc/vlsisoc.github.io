@@ -6,9 +6,13 @@ header:
     29th IFIP/IEEE International Conference on <br/>Very Large Scale Integration
   venue: >
     Virtual Conference<br/>4-8 October 2021, Singapore, Nanyang Technological University Center
-  action: # action button is optional
-    label: Call For Papers
-    url: 'assets/pdf/cfp.pdf'
+  actions: # action button is optional
+    - label: Submit Your Paper
+      url: 'https://easychair.org/conferences/?conf=vlsisoc2021'
+      background_style: btn-warning
+    - label: Call For Papers
+      url: 'assets/pdf/cfp.pdf'
+      background_style: btn-primary
 
 
 sections:
@@ -58,6 +62,9 @@ sections:
         date: June 28, 2021
       - title: Ph.D. Forum - Camera Ready
         date: July 22, 2021
+    action:
+      label: Submit Your Paper
+      url: 'https://easychair.org/conferences/?conf=vlsisoc2021'
     actions:
       - label: Call For Papers
         url: 'assets/pdf/cfp.pdf'

@@ -10,14 +10,18 @@ layout: base
         <hr class="divider my-4">
       </div>
       <div class="col-lg-8 align-self-baseline">
-        <h2 class="text-white-75">{{ page.header.text }}</p>
+        <h2 class="text-white-75">{{ page.header.text }}</h2>
         <p class="text-white-75 font-weight-light mt-5 mb-5">{{ page.header.venue }}</p>
-        {% if page.header.action %}
         <p class="mt-5 mb-4">
         <a class="text-white" href="#keynotes">Announcing Keynote Speakers</a>
         </p>
-        <a class="btn btn-primary btn-xl js-scroll-trigger" href="{{ page.header.action.url }}">{{ page.header.action.label }}</a>
-        {% endif %}
+        {% for action in page.header.actions %}
+        <div class="row justify-content-center mb-3">
+        <div class="col-md-4 text-center">
+        <a class="btn {{ action.background_style }} btn-block btn-xl js-scroll-trigger" href="{{ action.url }}">{{ action.label }}</a>
+        </div>
+        </div>
+        {% endfor %}
       </div>
     </div>
   </div>

@@ -14,10 +14,15 @@
             </ul>
             </div>
         </div>
-        <div class="row justify-content-center mt-3">
+        <div class="row mx-5 px-3 justify-content-center mt-3">
+            <div class="col-md-3 text-center">
+            <a class="btn btn-light btn-xl btn-block js-scroll-trigger" href="{{ section.action.url }}">{{ section.action.label }}</a>
+            </div>
+        </div>
+        <div class="row mx-5 px-3 justify-content-center mt-3">
             {% for action in section.actions %}
-            <div class="col-md-auto text-center">
-            <a class="btn btn-light btn-xl js-scroll-trigger" href="{{ action.url }}">{{ action.label }}</a>
+            <div class="col-md-3 text-center">
+            <a class="btn btn-light btn-xl btn-block js-scroll-trigger" href="{{ action.url }}">{{ action.label }}</a>
             </div>
             {% endfor %}
         </div>
