@@ -47,15 +47,15 @@ sections:
     title: Important Dates
     dates:
       - title: Abstract registration
-        date: April 19, 2021
+        date: April 26, 2021
       - title: Full paper submission
-        date: April 26, 2021
+        date: May 03, 2021
       - title: Special session proposal
-        date: April 26, 2021
+        date: May 03, 2021
       - title: Notification of acceptance
-        date: June 21, 2021
+        date: June 28, 2021
       - title: Camera ready
-        date: July 12, 2021
+        date: July 22, 2021
       - title: Ph.D. Forum submission
         date: June 4, 2021
       - title: Ph.D. Forum - Notification of acceptance
