@@ -3,7 +3,7 @@
   {% for action in include.actions %}
   <div class="column">
       {% if action.link %}<a href="{{action.link}}" target="_blank" rel="noopener noreferrer">{% endif %}
-      <img class="mx-5" src="assets/img/{{action.image}}" alt="{{action.alt}}" style="height:{{action.height | default: 75}}px">
+      <img class="mx-4" src="assets/img/{{action.image}}" alt="{{action.alt}}" style="height:{{action.height | default: 75}}px">
       {% if action.link %}</a>{% endif %}
   </div>
   {% endfor %}

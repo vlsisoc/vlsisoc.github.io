@@ -34,6 +34,8 @@ sections:
         height: 170
       - image: ieee.png
         alt: IEEE
+      - image: CEDA.png
+        alt: CEDA
     medias:
       - image: jlpea.png
         alt: JLPEA
@@ -49,13 +51,13 @@ sections:
       - title: Abstract registration
         date: April 26, 2021
       - title: Full paper submission
-        date: May 03, 2021
+        date: May 10, 2021
       - title: Special session proposal
-        date: May 03, 2021
+        date: May 10, 2021
       - title: Notification of acceptance
-        date: June 28, 2021
+        date: July 5, 2021
       - title: Camera ready
-        date: July 22, 2021
+        date: July 29, 2021
       - title: Ph.D. Forum submission
         date: June 4, 2021
       - title: Ph.D. Forum - Notification of acceptance
