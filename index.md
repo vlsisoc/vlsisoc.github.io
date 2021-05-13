@@ -49,11 +49,11 @@ sections:
     title: Important Dates
     dates:
       - title: Abstract registration
-        date: April 26, 2021
+        date: past due
       - title: Full paper submission
-        date: May 10, 2021
+        date: past due
       - title: Special session proposal
-        date: May 10, 2021
+        date: past due
       - title: Notification of acceptance
         date: July 5, 2021
       - title: Camera ready
