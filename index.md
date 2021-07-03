@@ -7,12 +7,12 @@ header:
   venue: >
     Virtual Conference<br/>4-8 October 2021, Singapore, Nanyang Technological University Center
   actions: # action button is optional
-    - label: Submit Your Paper
-      url: 'https://easychair.org/conferences/?conf=vlsisoc2021'
+    - label: Registration
+      url: 'https://www.axeacongress.com/congressi/VLSI-SoC2021/uk/signup.asp'
       background_style: btn-warning
-    - label: Call For Papers
-      url: 'assets/pdf/cfp.pdf'
-      background_style: btn-primary
+    #- label: Call For Papers
+    #  url: 'assets/pdf/cfp.pdf'
+    #  background_style: btn-primary
 
 
 sections:
@@ -59,9 +59,11 @@ sections:
       - title: Camera ready
         date: July 29, 2021
       - title: Ph.D. Forum submission
-        date: June 20, 2021
+        date: past due
       - title: Ph.D. Forum - Notification of acceptance
         date: July 5, 2021
+      - title: Speaker and PhD Forum Registration
+        date: July 19, 2021
       - title: Ph.D. Forum - Camera Ready
         date: July 22, 2021
     action:
