@@ -10,9 +10,9 @@ header:
     - label: Registration
       url: https://www.axeacongress.com/congressi/VLSI-SoC2021/uk/page.asp?PID=56
       background_style: btn-warning
-    #- label: Call For Papers
-    #  url: 'assets/pdf/cfp.pdf'
-    #  background_style: btn-primary
+    - label: Camera Ready
+      url: '/cameraready'
+      background_style: btn-primary
 
 
 sections:
@@ -55,13 +55,13 @@ sections:
       - title: Special session proposal
         date: past due
       - title: Notification of acceptance
-        date: July 5, 2021
+        date: past due
       - title: Camera ready
         date: July 29, 2021
       - title: Ph.D. Forum submission
         date: past due
       - title: Ph.D. Forum - Notification of acceptance
-        date: July 5, 2021
+        date: past due
       - title: Speaker and PhD Forum Registration
         date: July 19, 2021
       - title: Ph.D. Forum - Camera Ready
