@@ -8,7 +8,7 @@ header:
     Virtual Conference<br/>4-8 October 2021, Singapore, Nanyang Technological University Center
   actions: # action button is optional
     - label: Registration
-      url: 'https://www.axeacongress.com/congressi/VLSI-SoC2021/uk/signup.asp'
+      url: https://www.axeacongress.com/congressi/VLSI-SoC2021/uk/page.asp?PID=56
       background_style: btn-warning
     #- label: Call For Papers
     #  url: 'assets/pdf/cfp.pdf'
