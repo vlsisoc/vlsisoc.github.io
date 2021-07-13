@@ -79,7 +79,8 @@ sections:
     camera-ready manuscript. The upload deadline is July 29th, 2021.
 
     <h2>Step 5: IEEE Copyright Form</h2>
-    For each paper, an [IEEE copyright form](https://www.ieee.org/publications/rights/copyright-main.html){:target="_blank"} must be completed. The link to fill
-    out the Electronic Copyright Form will be available shortly. Authors will be
-    advised when ready.
+    For each paper, an [IEEE copyright form](https://www.ieee.org/publications/rights/copyright-main.html){:target="_blank"} must be completed.
+    Corresponding authors will receive by email the link to fill out the Electronic Copyright
+    Form. The Electronic Copyright Form has to be completed before submitting the
+    paper camera ready.
 ---
