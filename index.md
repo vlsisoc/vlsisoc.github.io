@@ -215,6 +215,6 @@ sections:
     actions:
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:vlsisoc.ifip@gmail.com
+      url: mailto:ifip.vlsisoc@gmail.com
 
 ---
