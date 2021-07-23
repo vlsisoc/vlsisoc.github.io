@@ -3,6 +3,7 @@ layout: home
 header:
   title: VLSI-SoC 2021
   text: >
+    <div class="mb-4"><img class="mx-4" src="assets/img/IFIP_60th_Anniversary_Logo_white.png" alt="IFIP 60th Anniversary" style="height:100px"></div>
     29th IFIP/IEEE International Conference on <br/>Very Large Scale Integration
   venue: >
     Virtual Conference<br/>4-8 October 2021, Singapore, Nanyang Technological University Center
