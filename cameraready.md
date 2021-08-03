@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Camera Ready
 background_style: bg-info
 # background_image: url('assets/img/backgrounds/sgbg.jpg')
 # Add a link to the the top menu
