@@ -7,10 +7,12 @@ header:
   url: /#page-top
 - title: Registration
   url: https://www.axeacongress.com/congressi/VLSI-SoC2021/uk/page.asp?PID=56
+- title: Program
+  url: /program
 - title: Presenters
   url: /presenters
-- title: Important Dates
-  url: /#dates
+# - title: Important Dates
+#   url: /#dates
 - title: Committee
   url: /#organization
 - title: TPC
